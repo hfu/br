@@ -1,0 +1,23 @@
+{
+  "name": "br",
+  "version": "1.0.0",
+  "description": "Learning browserify, with a Mapbox GL JS site.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hfu/br.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/hfu/br/issues"
+  },
+  "homepage": "https://github.com/hfu/br#readme",
+  "dependencies": {
+    "@tilecloud/mbgl-export-control": "^0.3.8"
+  }
+}
